@@ -1,3 +1,3 @@
-export default potato() {
-    console.log('potatoes');
+export potato() {
+    alert('potatoes');
 }
