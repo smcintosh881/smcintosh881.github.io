@@ -1,3 +1,3 @@
-export potato() {
+function potato() {
     alert('potatoes');
 }
