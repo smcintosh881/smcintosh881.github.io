@@ -1,5 +1,5 @@
 function countdown() {
-  let date = "May, 8, 2019";
+  let date = "May, 10, 2019";
 
   let d1 = new Date(date);
   let d2 = new Date();
